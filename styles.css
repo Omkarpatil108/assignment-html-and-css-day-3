@@ -1,0 +1,34 @@
+
+img {
+    size: 700px;
+}.assignment {
+    position: relative;
+    text-align: center;
+    color: blue;
+      text-emphasis: bolder;
+      font-size: 30px;
+  }
+  .left {
+    font-size: 30px;
+    color: blue;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
+.center {
+    font-size: 30px;
+    color: blue;
+    position: absolute;
+    top: 8px;
+    left: 50%;
+}
+
+.right {
+    font-size: 30px;
+    color: blue;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  
